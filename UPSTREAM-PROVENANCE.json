@@ -1,0 +1,10 @@
+{
+  "repository": "agilesix/cg-api-ca",
+  "files": {
+    "src/adapter/plugin.ts": "e810a1bfdc9035af56d64f5a0e65aed5ae6372ab",
+    "src/adapter/caSource.ts": "0def372658d586e0cc0047166ab23ac7f7d967d9",
+    "src/adapter/fields.ts": "d1052ca5f1a82a09a302a82d77192fedd8c272f2",
+    "src/adapter/transform.ts": "78e3b3839bea4609bcb1688029ac95e4c21262bd",
+    "LICENSE": "78c96521cb3a125bfbb3198062b3b583a6c4adf9"
+  }
+}
